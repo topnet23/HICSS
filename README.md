@@ -46,3 +46,4 @@ The selection process of the SLR is inside [2. Systematic Literature Review.xlsx
 The individual results of our expert survey are inside [3. Evaluation.xlsx](Excel/3.%20Evaluation.xlsx).
 A screenshot of the results is displayed below.
 
+<img width="2238" alt="Evaluation" src="https://github.com/topnet23/HICSS/assets/127633888/e4c92633-aa5a-40e9-b4ca-4f5bd8cab5d6">
